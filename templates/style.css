@@ -1,0 +1,31 @@
+#head {
+    margin: auto;
+}
+
+#btn {
+    height: 50px;
+    padding-top: 8px;
+    font-size: 150%;
+}
+
+
+
+#featured-image {
+    height: 500px;
+    width: 700px;
+}
+
+
+
+
+#border {
+    border-style: solid
+}
+
+
+.card {
+    height: 200px;
+    width: 150px;
+}
+
+
